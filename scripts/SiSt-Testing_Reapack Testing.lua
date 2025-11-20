@@ -3,7 +3,7 @@
 -- @author Your Name
 -- @changelog
 --   - Changed script description
---   - uminor bug fixes
+--   - minor bug fixes
 -- @about
 --   A short description of what this script does.
 
