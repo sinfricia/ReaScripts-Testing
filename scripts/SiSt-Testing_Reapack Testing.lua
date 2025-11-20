@@ -1,10 +1,11 @@
 -- @description My Awesome Script
--- @version 1.0.0
+-- @version 2.0.0
 -- @author Your Name
 -- @changelog
---   Initial release
+--   - fixed filename
+--   - updated version numbers
 -- @about
 --   A short description of what this script does.
 
 
-reaper.ShowConsoleMsg("Hello World")
+reaper.ShowConsoleMsg("Hello World V2.0.0!")
