@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="SiSt Reascript Testing" commit="fc188d2a3a57ddae921a26a847a09733cba45729">
+<index version="1" name="SiSt Reascript Testing" commit="02ddffd336b39032993beaa55307120001906bc4">
   <category name="scripts">
-    <reapack name="reapackTest.lua" type="script" desc="My Awesome Script">
+    <reapack name="SiSt-Testing_Reapack Testing.lua" type="script" desc="My Awesome Script">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -11,9 +11,10 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0.0" author="Your Name" time="2025-11-09T11:59:02Z">
-        <changelog><![CDATA[Initial release]]></changelog>
-        <source main="main">https://github.com/sinfricia/ReaScripts-Testing---Github-Repo/raw/fc188d2a3a57ddae921a26a847a09733cba45729/scripts/reapackTest.lua</source>
+      <version name="2.0.0" author="Your Name" time="2025-11-20T11:50:08Z">
+        <changelog><![CDATA[- fixed filename
+- updated version numbers]]></changelog>
+        <source main="main">https://github.com/sinfricia/ReaScripts-Testing---Github-Repo/raw/02ddffd336b39032993beaa55307120001906bc4/scripts/SiSt-Testing_Reapack%20Testing.lua</source>
       </version>
     </reapack>
   </category>
