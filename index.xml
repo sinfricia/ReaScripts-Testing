@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="SiSt Reascript Testing" commit="02ddffd336b39032993beaa55307120001906bc4">
+<index version="1" name="SiSt Reascript Testing" commit="5653fb0a1263475b05a7d3188b85daa8e9bec134">
   <category name="scripts">
-    <reapack name="SiSt-Testing_Reapack Testing.lua" type="script" desc="My Awesome Script">
+    <reapack name="SiSt-Testing_My awesome script.lua" type="script" desc="My awesome script">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This is a second test!\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="sinfricia" time="2025-11-20T12:01:03Z">
+        <changelog><![CDATA[Initial commit]]></changelog>
+        <source main="main">https://github.com/sinfricia/ReaScripts-Testing---Github-Repo/raw/5653fb0a1263475b05a7d3188b85daa8e9bec134/scripts/SiSt-Testing_My%20awesome%20script.lua</source>
+      </version>
+    </reapack>
+    <reapack name="SiSt-Testing_Reapack Testing.lua" type="script" desc="Reapack Testing">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -15,6 +30,11 @@
         <changelog><![CDATA[- fixed filename
 - updated version numbers]]></changelog>
         <source main="main">https://github.com/sinfricia/ReaScripts-Testing---Github-Repo/raw/02ddffd336b39032993beaa55307120001906bc4/scripts/SiSt-Testing_Reapack%20Testing.lua</source>
+      </version>
+      <version name="2.0.1" author="Your Name" time="2025-11-20T12:01:03Z">
+        <changelog><![CDATA[- Changed script description
+- uminor bug fixes]]></changelog>
+        <source main="main">https://github.com/sinfricia/ReaScripts-Testing---Github-Repo/raw/5653fb0a1263475b05a7d3188b85daa8e9bec134/scripts/SiSt-Testing_Reapack%20Testing.lua</source>
       </version>
     </reapack>
   </category>
