@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="SiSt Reascript Testing" commit="f89967dfc93299a6f19f26c28bff89b9462e74ee">
+<index version="1" name="SiSt Reascript Testing" commit="38d6046e372b6ec51e5f617008d45778a1b152ba">
   <category name="scripts">
     <reapack name="SiSt-Testing_My awesome script.lua" type="script" desc="My awesome script">
       <metadata>
@@ -14,6 +14,10 @@
       <version name="1.0.0" author="sinfricia" time="2025-11-20T12:01:03Z">
         <changelog><![CDATA[Initial commit]]></changelog>
         <source main="main">https://github.com/sinfricia/ReaScripts-Testing---Github-Repo/raw/5653fb0a1263475b05a7d3188b85daa8e9bec134/scripts/SiSt-Testing_My%20awesome%20script.lua</source>
+      </version>
+      <version name="1.0.1" author="sinfricia" time="2025-11-20T12:16:35Z">
+        <changelog><![CDATA[Initial commit]]></changelog>
+        <source main="main">https://github.com/sinfricia/ReaScripts-Testing---Github-Repo/raw/38d6046e372b6ec51e5f617008d45778a1b152ba/scripts/SiSt-Testing_My%20awesome%20script.lua</source>
       </version>
     </reapack>
     <reapack name="SiSt-Testing_Reapack Testing.lua" type="script" desc="Reapack Testing">
